@@ -38,8 +38,14 @@ THE SOFTWARE.
           DTR  -  IO 2
 
  SCI_SCI1JTAG を使用する場合、  
-　すいません、JTAGを使ったことが無いので、よくわからないです。m(_ _)m
 
-
+    GR-KURUMI  -  GR-SAKURA JTAG コネクタ(ピン番号)
+          GND  -  (13)GND
+          CTS  -  N.C.未接続
+          VCC  -  (11)VCC
+          RXI  -  (3)TXD1
+          TXD  -  (6)RXD1
+          DTR  -  (2)P34
+  
 Sakura_KurumiWriter
 ===================
